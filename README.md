@@ -1,5 +1,5 @@
 # Showcase
-
+![alt text](https://github.com/haikalrozhan/game_store_flutter_FS/blob/main/snapshot/Screenshot_1.png)
 # game_store
 
 A new Flutter project.
